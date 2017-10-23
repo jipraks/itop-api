@@ -60,6 +60,10 @@ You can use the "**tester.php**" to test the API. There are several example scri
 
 * **Aji Prakoso** - *Initial Work* - [Jipraks](https://github.com/jipraks)
 
+## Disclaimer
+
+This project and its author is neither associated, nor affiliated with [Combodo](https://www.combodo.com/itop-193) in anyway.
+
 ## Notes
 
 I'm a newbie on coding, so please be advised if there are lot of shortcomings on my code and also on my english :D
