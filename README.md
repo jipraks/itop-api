@@ -7,7 +7,7 @@ This library is made to simplify the process to get / update data on iTop system
 
 You can read the iTop's official REST API documentation here : https://wiki.openitop.org/doku.php?id=2_2_0:advancedtopics:rest_json.
 
-To use this API Library, you have to include "**apifunction.php**" on your script, then call the function you need. All available function is listed on **Available Function** section below.
+To use this API Library, you have to include "**apifunction.php**" on your script, then call the function you need. All available function is listed on [**Available Function**](https://github.com/jipraks/itop-api#available-function) section below.
 
 Dont forget to fill your iTop's credential on "**apifunction.php**" file at the beginning of script.
 
